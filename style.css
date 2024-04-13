@@ -1,0 +1,34 @@
+h1{
+     text-align: center;
+     color: #d6b46aa4;
+    
+}
+.x1{
+    border:solid;
+    width: 100%;
+    height: 500px;
+    background-color: rgba(213, 169, 92, 0.278);
+}
+.x2{
+    width: 100%;
+    height: 500px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    position:absolute;
+    top:10px;
+    padding:10px;
+
+}
+
+h2{
+    text-align: center;
+}
+p{
+  text-align: center
+    
+}
+
+
